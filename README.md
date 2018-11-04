@@ -8,8 +8,8 @@ This Repository uses the [GitHub API](https://developer.github.com/v3/) to imple
 that processes repository statistics of Clojure projects; 
 
 
-This function  return a list of repositories ordered by number of stargazers
-with:
+This function returns a list of repositories ordered by number of stargazers
+with the following structure:
 
   - repository name (in the format `organization/repository-name`)
   - stargazers count
