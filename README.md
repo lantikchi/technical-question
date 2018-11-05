@@ -22,7 +22,12 @@ with the following structure:
 * `JavaAcript`
 * `Node.js`
 
-To run the code open terminal, navigate to the home directory, and run ' node .\statistics.js '
+Ensure you have Node.js installed by running `node -v` in Terminal
+if you have Node installed you should get the version number back, if not, 
+
+install Node.js on your environment from https://nodejs.org/en/download/
+
+To run the code open terminal, navigate to the home directory, and run `node .\statistics.js`
 
 ## Example Usage
 
